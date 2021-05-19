@@ -1,0 +1,15 @@
+.banner {
+  background-image: url("https://ib.canaltech.com.br/405937.jpeg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+.container {
+  width: 900px;
+  margin: auto;
+}
+.text {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
